@@ -40,7 +40,7 @@ dependencies:
 
 ## 🚀 Quick Start
 ```dart
-import 'package:expandable_text_view/expandable_text_view.dart';
+import 'package:expandable_text_view/flutter_expandable_text_view.dart';
 
 ExpandableTextView(
   text: 'Your long text here...',
