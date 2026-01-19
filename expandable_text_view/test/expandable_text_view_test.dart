@@ -1,6 +1,6 @@
 // import 'package:flutter_test/flutter_test.dart';
 //
-// import 'package:expandable_text_view/flutter_expandable_text_view.dart';
+// import 'package:expandable_text_view/expandable_text_view.dart';
 //
 // void main() {
 //   test('adds one to input values', () {
