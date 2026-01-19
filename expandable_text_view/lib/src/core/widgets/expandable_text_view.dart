@@ -1,7 +1,5 @@
-import 'package:expandable_text_view/src/core/widgets/expandable_controller.dart';
 import 'package:flutter/material.dart';
-import '../models/expandable_text_config.dart';
-import '../../utils/text_utils.dart';
+import 'package:flutter_expandable_text_view/expandable_text_view.dart';
 
 /// An advanced expandable text view widget with animations and customization
 class ExpandableTextView extends StatefulWidget {
