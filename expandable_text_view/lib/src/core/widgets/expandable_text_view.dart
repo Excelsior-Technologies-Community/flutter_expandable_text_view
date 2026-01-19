@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_expandable_text_view/flutter_expandable_text_view.dart';
+import 'package:flutter_expandable_text_view/expandable_text_view.dart';
 
 /// An advanced expandable text view widget with animations and customization
 class ExpandableTextView extends StatefulWidget {
