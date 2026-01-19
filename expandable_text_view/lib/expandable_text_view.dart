@@ -1,4 +1,4 @@
-library expandable_text_view;
+library flutter_expandable_text_view;
 
 // Export all public APIs
 export 'src/core/widgets/expandable_text_view.dart';
